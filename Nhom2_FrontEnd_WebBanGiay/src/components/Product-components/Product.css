@@ -1,0 +1,10 @@
+.star_rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.star_rating li i {
+  color: #fac451;
+  margin: 0 5px;
+}

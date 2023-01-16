@@ -1,0 +1,46 @@
+.contact_container {
+  margin-top: 150px;
+  padding-bottom: 80px;
+  border-bottom: solid 1px #ebebeb;
+}
+#google_map {
+  width: 100%;
+  height: 507px;
+  margin-bottom: 59px;
+}
+.map_container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  box-shadow: 0px 27px 59px rgba(0, 0, 0, 0.15);
+}
+#map {
+  width: 100%;
+  height: calc(100% + 30px);
+}
+
+/*********************************
+6. Contact Us
+*********************************/
+
+.contact_contents {
+  padding-right: 30px;
+}
+.contact_contents h1,
+.follow_us_contents h1,
+.get_in_touch_contents h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+.contact_contents p,
+.get_in_touch_contents p {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+.contact_contents div {
+  margin-top: 22px;
+}
+.contact_contents div:first-of-type {
+  margin-top: 39px;
+}

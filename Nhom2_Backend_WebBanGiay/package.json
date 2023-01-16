@@ -1,0 +1,39 @@
+{
+  "name": "nhom_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenanhphuong69/Nhom_2.git"
+  },
+  "author": "anhphuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenanhphuong69/Nhom_2/issues"
+  },
+  "homepage": "https://github.com/nguyenanhphuong69/Nhom_2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "cloudinary": "^1.28.1",
+    "cloudinary-core": "^2.12.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express-fileupload": "^1.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.15",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.2",
+    "nodemailer-express-handlebars": "^4.0.0",
+    "passport": "^0.5.2",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
